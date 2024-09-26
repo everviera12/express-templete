@@ -37,3 +37,41 @@ This is a basic template project to create web applications using Express. It in
    ```bash
    npm start
 
+
+# Plantilla de Express
+
+## Versión en Español
+
+Este es un proyecto de plantilla básico para crear aplicaciones web utilizando Express. Incluye una configuración mínima para comenzar rápidamente con un servidor Express, utilizando tecnologías esenciales como `cookie-parser`, `morgan`, `pug` y más.
+
+### Tecnologías Utilizadas
+
+- **Express**: Un marco de servidor web minimalista y flexible para Node.js.
+- **Pug**: Un motor de plantillas de alto rendimiento para generar HTML dinámico.
+- **Morgan**: Middleware para registrar solicitudes HTTP.
+- **Cookie-Parser**: Middleware para analizar cookies.
+- **HTTP-Errors**: Un paquete para crear y manejar errores HTTP fácilmente.
+- **Debug**: Una utilidad para depurar la aplicación.
+
+### Requisitos Previos
+
+- [Node.js](https://nodejs.org/) (se recomienda v12 o superior)
+- [npm](https://www.npmjs.com/) (viene con Node.js)
+
+### Instrucciones de Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-nombre-de-usuario/express-template.git
+
+2. Navega al directorio del proyecto:
+   ```bash
+   cd express-template
+   
+3. Instala las dependencias:
+   ```bash
+   npm install
+
+4. Inicia el servidor:
+   ```bash
+   npm start
