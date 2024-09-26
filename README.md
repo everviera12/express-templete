@@ -38,9 +38,6 @@ This is a basic template project to create web applications using Express. It in
    npm start
 
 
-
-
-
 # Plantilla de Express
 
 ## Versión en Español
